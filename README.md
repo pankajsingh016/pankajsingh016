@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Python.
+- 💻  I'm Interested in Development and Competitive Programming.
+- 📫 How to reach me: [Twitter](https://twitter.com/Pankajsingh_016)  [Linkedin](https://www.linkedin.com/in/pankaj-kanyal-2060291b2/)
+- 😄 Pronouns: He||PK||Pikes
+- ⚡ Fun fact: I love to Play ⚽
 <!--
 **pankajsingh016/pankajsingh016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
