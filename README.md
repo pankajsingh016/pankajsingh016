@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Python.
-- 💻  I'm Interested in Machine Learning,Development and Competitive Programming.
+- 💻  I'm Interested in Machine Learning, Development and Competitive Programming.
 - 📫 How to reach me: [Twitter](https://twitter.com/Pankajsingh_016)  [Linkedin](https://www.linkedin.com/in/pankaj-kanyal-2060291b2/)
 - 😄 Pronouns: He||PK||Pikes
 - ⚡ Fun fact: I love to Play ⚽
