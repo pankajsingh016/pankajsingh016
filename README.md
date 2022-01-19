@@ -1,4 +1,4 @@
-<img src="assets/images/Focusing.png" height="275" width="1000"/>
+<img src="assets/images/Focusing.png" height="275" width="1100"/>
 
 <h1 align = "center">Hi👋,Pankaj here</h1>
 
