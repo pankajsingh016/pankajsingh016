@@ -1,4 +1,4 @@
-![MasterHead]()
+<!-- ![MasterHead]() -->
 <h1 align="center">Hi 👋, I'm Pankaj</h1>
 <h3 align="center">From India</h3>
 
