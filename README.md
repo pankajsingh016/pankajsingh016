@@ -10,6 +10,9 @@
 - 👯 I’m looking to contribute to some open-source organization
 - 🤔 I’m looking for help with employment
 - 💬 Ask me about AI,ML,DL
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pankaj-kanyal-2060291b2/)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Coding is similar to cooking.
+-    ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06): [Watch](https://leetcode.com/u/pankajsinghkanyal016/)
+-    ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white): [Watch](https://codeforces.com/profile/pankajsingh016)
+
