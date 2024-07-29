@@ -14,5 +14,5 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Coding is similar to cooking.
 
-![](https://leetcard.jacoblin.cool/pankajsinghkanyal016?ext=contest)
+![Pankaj's GitHub stats](https://github-readme-stats-pankaj-singh-kanyals-projects.vercel.app/api?username=pankajsingh016) ![](https://leetcard.jacoblin.cool/pankajsinghkanyal016) 
 
