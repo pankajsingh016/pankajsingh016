@@ -8,9 +8,9 @@
 - 🔭 I’m currently working on Machine Learning and Web-Dev
 - 🌱 I’m currently learning Web-Dev
 - 👯 I’m looking to contribute to some open-source organization
-- 🤔 I’m looking for help with employment
-- 💬 Ask me about AI,ML,DL
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pankaj-kanyal-2060291b2/)
+- 🤔 I’m looking for roles in Data Science and Web-Dev
+- 💬 Ask me about AI,ML,DL,React, JS
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pankaj-kanyal-2060291b2/) [Portfolio](https://cream-individual-749.notion.site/Pankaj-Singh-Kanyal-16ee7b460f3e80528128d84f41fe2e96)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Coding is similar to cooking.
 
