@@ -13,6 +13,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pankaj-kanyal-2060291b2/)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Coding is similar to cooking.
+- Learn **AIML** with me : [AIML-REPO](https://github.com/pankajsingh016/Machine-Learning-Basics)
 
 |GitHub|LeetCode|
 |---|---|
