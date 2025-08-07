@@ -16,9 +16,12 @@
 - ⚡ Fun fact: Coding is similar to cooking.
 - Learn **AIML** with me : [AIML-REPO](https://github.com/pankajsingh016/Machine-Learning-Basics)
 
-|GitHub|LeetCode|
-|---|---|
-|![Pankaj's GitHub stats](https://github-readme-stats-pankaj-singh-kanyals-projects.vercel.app/api?username=pankajsingh016)|![](https://leetcard.jacoblin.cool/pankajsinghkanyal016)|
+<!--|GitHub|LeetCode| -->
+<!--|---|---|-->
+<!--|![Pankaj's GitHub stats](https://github-readme-stats-pankaj-singh-kanyals-projects.vercel.app/api?username=pankajsingh016)| -->
+**LEETCODE STATS**
+
+![](https://leetcard.jacoblin.cool/pankajsinghkanyal016)|
 
   
 
