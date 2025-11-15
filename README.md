@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Machine Learning and Web-Dev
 - 🌱 I’m currently learning to build a Full-Stack Apps Project with Integrating AI as a Service.
 - 👯 I’m looking to contribute to some open-source organisation
-- 🤔 I’m looking for roles in Data Science and Web-Dev
+<!-- 🤔 I’m looking for roles in Data Science and Web-Dev-->
 - 💬 Ask me about AI, ML, DL, React, JS
 - 📫 Do Connect with me, If you have come till here: [LinkedIn](https://www.linkedin.com/in/pankaj-kanyal-2060291b2/)
 - 😄 Pronouns: He/him
